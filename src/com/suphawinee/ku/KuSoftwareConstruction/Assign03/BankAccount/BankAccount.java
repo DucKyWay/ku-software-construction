@@ -3,12 +3,12 @@ package src.com.suphawinee.ku.KuSoftwareConstruction.Assign03.BankAccount;
 public class BankAccount {
     private double balance;
     private final String accountNumber;
-    public double interestRate;
+    public static double interestRate;
 
     BankAccount(double balance, String accountNumber) {
         this.accountNumber = accountNumber;
         this.balance = balance;
-        this.interestRate = 0.0;
+        interestRate = 0.0;
     }
 
     public double getBalance() {
