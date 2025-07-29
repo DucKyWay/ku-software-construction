@@ -1,4 +1,4 @@
-package src.com.suphawinee.ku.KuSoftwareConstruction.Assign02;
+package com.suphawinee.ku.KuSoftwareConstruction.Assign02;
 
 public class Nanosecond {
     public static long minToNanoSec(int min){

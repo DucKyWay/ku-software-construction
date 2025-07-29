@@ -1,4 +1,4 @@
-package src.com.suphawinee.ku.KuSoftwareConstruction.Assign03.BankAccount;
+package com.suphawinee.ku.KuSoftwareConstruction.Assign03.BankAccount;
 
 public class BankAccount {
     private double balance;

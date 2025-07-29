@@ -1,4 +1,4 @@
-package src.com.suphawinee.ku.KuSoftwareConstruction.Assign04.Trip;
+package com.suphawinee.ku.KuSoftwareConstruction.Assign04.Trip;
 //package com.travel.costing;
 
 public class Trip {

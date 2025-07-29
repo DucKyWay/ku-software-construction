@@ -1,4 +1,4 @@
-package src.com.suphawinee.ku.KuSoftwareConstruction;
+package com.suphawinee.ku.KuSoftwareConstruction;
 
 import java.util.Scanner;
 

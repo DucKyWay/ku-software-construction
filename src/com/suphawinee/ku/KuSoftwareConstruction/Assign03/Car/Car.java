@@ -1,4 +1,4 @@
-package src.com.suphawinee.ku.KuSoftwareConstruction.Assign03.Car;
+package com.suphawinee.ku.KuSoftwareConstruction.Assign03.Car;
 
 public class Car {
     private String model;

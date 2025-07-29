@@ -1,10 +1,10 @@
-package src.com.suphawinee.ku.KuSoftwareConstruction.Assign03.BankAccount;
+package com.suphawinee.ku.KuSoftwareConstruction.Assign03.BankAccount;
 
 public class Customer {
     private String name;
-    private src.com.suphawinee.ku.KuSoftwareConstruction.Assign03.BankAccount.BankAccount account;
+    private BankAccount account;
 
-    Customer(String name, src.com.suphawinee.ku.KuSoftwareConstruction.Assign03.BankAccount.BankAccount account) {
+    Customer(String name, BankAccount account) {
         this.name = name;
         this.account = account;
     }
@@ -13,7 +13,7 @@ public class Customer {
         return name;
     }
 
-    public src.com.suphawinee.ku.KuSoftwareConstruction.Assign03.BankAccount.BankAccount getAccount() {
+    public BankAccount getAccount() {
         return account;
     }
 }

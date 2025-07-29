@@ -1,4 +1,4 @@
-package src.com.suphawinee.ku.KuSoftwareConstruction.Assign02;
+package com.suphawinee.ku.KuSoftwareConstruction.Assign02;
 
 public class YearEon {
     public static double yearToEon (int year){

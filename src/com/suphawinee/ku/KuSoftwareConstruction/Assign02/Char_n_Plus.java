@@ -1,4 +1,4 @@
-package src.com.suphawinee.ku.KuSoftwareConstruction.Assign02;
+package com.suphawinee.ku.KuSoftwareConstruction.Assign02;
 
 public class Char_n_Plus {
     public static void main(String[] args) {

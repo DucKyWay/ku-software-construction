@@ -1,4 +1,4 @@
-package src.com.suphawinee.ku.KuSoftwareConstruction; // Idea
+package com.suphawinee.ku.KuSoftwareConstruction.Exersise02; // Idea
 //package com.suphawinee.ku.KuSoftwareConstruction; // Eclipse
 
 import java.util.Scanner;

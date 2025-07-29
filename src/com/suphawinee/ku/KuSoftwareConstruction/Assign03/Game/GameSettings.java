@@ -1,4 +1,4 @@
-package src.com.suphawinee.ku.KuSoftwareConstruction.Assign03.Game;
+package com.suphawinee.ku.KuSoftwareConstruction.Assign03.Game;
 
 public class GameSettings {
     protected static final int MAX_HEALTH = 100;

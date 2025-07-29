@@ -1,4 +1,4 @@
-package src.com.suphawinee.ku.KuSoftwareConstruction.Assign03.Car;
+package com.suphawinee.ku.KuSoftwareConstruction.Assign03.Car;
 
 public class CarFactory {
     public Car produceCar(String model, String color) {

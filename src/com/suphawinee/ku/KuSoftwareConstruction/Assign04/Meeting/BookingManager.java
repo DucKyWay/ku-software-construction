@@ -1,4 +1,4 @@
-package src.com.suphawinee.ku.KuSoftwareConstruction.Assign04.Meeting;
+package com.suphawinee.ku.KuSoftwareConstruction.Assign04.Meeting;
 // package com.organization.booking
 
 public class BookingManager {
