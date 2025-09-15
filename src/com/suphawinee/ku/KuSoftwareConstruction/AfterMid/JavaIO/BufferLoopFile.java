@@ -1,4 +1,4 @@
-package src.com.suphawinee.ku.KuSoftwareConstruction.AfterMid.JavaIO;
+package com.suphawinee.ku.KuSoftwareConstruction.AfterMid.JavaIO;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
