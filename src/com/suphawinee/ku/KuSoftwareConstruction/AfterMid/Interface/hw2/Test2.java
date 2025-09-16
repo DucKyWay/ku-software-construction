@@ -1,4 +1,4 @@
-package com.suphawinee.ku.KuSoftwareConstruction.AfterMid.Interface.second;
+package com.suphawinee.ku.KuSoftwareConstruction.AfterMid.Interface.hw2;
 
 public class Test2 {
     public static void main(String[] args) {

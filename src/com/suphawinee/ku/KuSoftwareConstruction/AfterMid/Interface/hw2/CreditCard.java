@@ -1,4 +1,4 @@
-package com.suphawinee.ku.KuSoftwareConstruction.AfterMid.Interface.second;
+package com.suphawinee.ku.KuSoftwareConstruction.AfterMid.Interface.hw2;
 
 class CreditCard implements Comparable<CreditCard> {
     private String number;

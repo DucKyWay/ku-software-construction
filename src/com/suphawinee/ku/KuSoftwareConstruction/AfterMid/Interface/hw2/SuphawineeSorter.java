@@ -1,4 +1,4 @@
-package com.suphawinee.ku.KuSoftwareConstruction.AfterMid.Interface.second;
+package com.suphawinee.ku.KuSoftwareConstruction.AfterMid.Interface.hw2;
 
 public class SuphawineeSorter {
     public static void sort(Comparable[] a) {

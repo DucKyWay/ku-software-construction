@@ -1,4 +1,4 @@
-package com.suphawinee.ku.KuSoftwareConstruction.AfterMid.Interface.first;
+package com.suphawinee.ku.KuSoftwareConstruction.AfterMid.Interface.hw1;
 
 public class Sensor implements NegativeCheckable {
 	
